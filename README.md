@@ -4,7 +4,7 @@ This repository is dedicated to the Land Pro AI project.
 
 ## Overview
 
-Add your project description here.
+LandPro AI – intelligent land management and mapping ecosystem.
 
 ## Features
 
